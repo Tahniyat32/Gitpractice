@@ -1,4 +1,4 @@
 # Gitpractice
-This is for learning purpose-
+This is for learning purpose
 <br>
-Auther Hyder
+Auther-Hyder
